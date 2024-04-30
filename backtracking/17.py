@@ -1,3 +1,9 @@
+'''
+Problem: Letter Combinations of a Phone Number
+Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Tags: Hash Table, String, Backtracking
+'''
+
 class Solution:
     dg_chs = ['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
     

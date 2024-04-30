@@ -1,3 +1,9 @@
+'''
+Problem: Partition Equal Subset Sum
+Link: https://leetcode.com/problems/partition-equal-subset-sum/
+Tags: Dynamic Programming, Arrays
+'''
+
 class Solution:
     def canPartition(self, nums: list[int]) -> bool:
         n = len(nums)

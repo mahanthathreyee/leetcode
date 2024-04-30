@@ -1,3 +1,9 @@
+'''
+Problem: Merge Intervals
+Link: https://leetcode.com/problems/merge-intervals/
+Tags: Intervals, Arrays, Sorting
+'''
+
 class Solution:
     def merge(self, intervals: list[list[int]]) -> list[list[int]]:
         res = []

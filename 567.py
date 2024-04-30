@@ -1,3 +1,9 @@
+'''
+Problem: Find All Anagrams in a String
+Link: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+Tags: Sliding Window, String
+'''
+
 class Solution:
     def checkInclusion(self, A: str, B: str) -> bool:
         def ord_c(x: str) -> int:
