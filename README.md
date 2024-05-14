@@ -4,9 +4,10 @@
 
 ## Backtracking
 
-| ID  | Problem                               | Difficulty |                                       Link                                       |           Solution            |
-| :-: | :------------------------------------ | :--------: | :------------------------------------------------------------------------------: | :---------------------------: |
-| 17  | Letter Combinations of a Phone Number |   Medium   | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [17.py](./Backtracking/17.py) |
+| ID  | Problem                               | Difficulty |                                       Link                                       |            Solution             |
+| :-: | :------------------------------------ | :--------: | :------------------------------------------------------------------------------: | :-----------------------------: |
+| 17  | Letter Combinations of a Phone Number |   Medium   | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [17.py](./Backtracking/17.py)  |
+| 695 | Max Area of Island                    |   Medium   |          [Leetcode](https://leetcode.com/problems/max-area-of-island/)           | [695.py](./Backtracking/695.py) |
 
 ## Binary Search
 
