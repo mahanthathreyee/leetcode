@@ -1,3 +1,9 @@
+'''
+Problem: 3 Sum
+Link: https://leetcode.com/problems/3sum/description/
+Tags: Binary Search, Two Pointer, Sorting
+'''
+
 class Solution:
     def threeSum(self, A: list[int]) -> list[list[int]]:
         res = []

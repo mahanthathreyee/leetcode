@@ -1,3 +1,9 @@
+'''
+Problem: Coin Change II
+Link: https://leetcode.com/problems/coin-change-ii/description/
+Tags: Dynamic Programming, Array 
+'''
+
 class Solution:
     def change(self, amount: int, coins: list[int]) -> int:
         n = len(coins)
