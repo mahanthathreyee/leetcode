@@ -21,6 +21,7 @@
 
 | ID  | Problem                        | Difficulty |                                   Link                                    |                 Solution                 |
 | :-: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :--------------------------------------: |
+| 72  | Edit Distance                  |   Medium   |         [Leetcode](https://leetcode.com/problems/edit-distance/)          |  [72.py](./Dynamic%20Programming/72.py)  |
 | 300 | Longest Increasing Subsequence |   Medium   | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) | [300.py](./Dynamic%20Programming/300.py) |
 | 416 | Partition Equal Subset Sum     |   Medium   |   [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)   | [416.py](./Dynamic%20Programming/416.py) |
 | 518 | Coin Change II                 |   Medium   |         [Leetcode](https://leetcode.com/problems/coin-change-ii/)         | [518.py](./Dynamic%20Programming/518.py) |
