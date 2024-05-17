@@ -19,12 +19,13 @@
 
 ## Dynamic Programming
 
-| ID  | Problem                        | Difficulty |                                   Link                                    |                 Solution                 |
-| :-: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :--------------------------------------: |
-| 72  | Edit Distance                  |   Medium   |         [Leetcode](https://leetcode.com/problems/edit-distance/)          |  [72.py](./Dynamic%20Programming/72.py)  |
-| 300 | Longest Increasing Subsequence |   Medium   | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) | [300.py](./Dynamic%20Programming/300.py) |
-| 416 | Partition Equal Subset Sum     |   Medium   |   [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)   | [416.py](./Dynamic%20Programming/416.py) |
-| 518 | Coin Change II                 |   Medium   |         [Leetcode](https://leetcode.com/problems/coin-change-ii/)         | [518.py](./Dynamic%20Programming/518.py) |
+|  ID  | Problem                        | Difficulty |                                   Link                                    |                  Solution                  |
+| :--: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :----------------------------------------: |
+|  72  | Edit Distance                  |   Medium   |         [Leetcode](https://leetcode.com/problems/edit-distance/)          |   [72.py](./Dynamic%20Programming/72.py)   |
+| 300  | Longest Increasing Subsequence |   Medium   | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) |  [300.py](./Dynamic%20Programming/300.py)  |
+| 416  | Partition Equal Subset Sum     |   Medium   |   [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)   |  [416.py](./Dynamic%20Programming/416.py)  |
+| 518  | Coin Change II                 |   Medium   |         [Leetcode](https://leetcode.com/problems/coin-change-ii/)         |  [518.py](./Dynamic%20Programming/518.py)  |
+| 1143 | Longest Common Subsequence     |   Medium   |   [Leetcode](https://leetcode.com/problems/longest-common-subsequence/)   | [1143.py](./Dynamic%20Programming/1143.py) |
 
 ## Graph & Trees
 
@@ -33,6 +34,7 @@
 | 46  | Permutations                                          |   Medium   |                     [Leetcode](https://leetcode.com/problems/permutations/)                      |  [46.py](./Graph%20&%20Trees/46.py)  |
 | 98  | Validate Binary Search Tree                           |   Medium   |              [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)              |  [98.py](./Graph%20&%20Trees/98.py)  |
 | 133 | Clone Graph                                           |   Medium   |                      [Leetcode](https://leetcode.com/problems/clone-graph/)                      | [133.py](./Graph%20&%20Trees/133.py) |
+| 207 | Course Schedule                                       |   Medium   |                    [Leetcode](https://leetcode.com/problems/course-schedule/)                    | [207.py](./Graph%20&%20Trees/207.py) |
 | 323 | Number of Connected Components in an Undirected Graph |   Medium   | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [323.py](./Graph%20&%20Trees/323.py) |
 
 ## Greedy
