@@ -1,8 +1,9 @@
 '''
 Problem: Coin Change II
 Link: https://leetcode.com/problems/coin-change-ii/description/
-Tags: Dynamic Programming, Array 
+Tags: Dynamic Programming, Array
 '''
+
 
 class Solution:
     def change(self, amount: int, coins: list[int]) -> int:
@@ -21,8 +22,9 @@ class Solution:
 
         return dp[n][amount]
 
+
 res = Solution().change(
-    amount = 5, 
-    coins = [1,2,5]
-)   
-print(res) 
+    amount=5,
+    coins=[1, 2, 5]
+)
+print(res)

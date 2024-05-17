@@ -4,12 +4,13 @@ Link: https://leetcode.com/problems/gas-station/description/
 Tags: Greedy
 '''
 
+
 class Solution:
     def canCompleteCircuit(self, gas: list[int], cost: list[int]) -> int:
         n = len(gas)
 
         surplus, total = 0, 0
-        res = 0
+        ans = 0
 
         for i in range(n):
             total += gas[i] - cost[i]
@@ -17,14 +18,15 @@ class Solution:
 
             if surplus < 0:
                 surplus = 0
-                res = i + 1
+                ans = i + 1
 
         if total >= 0:
-            return res
+            return ans
         return -1
 
+
 res = Solution().canCompleteCircuit(
-    gas=[1,2,3,4,5],
-    cost=[3,4,5,1,2]
+    gas=[1, 2, 3, 4, 5],
+    cost=[3, 4, 5, 1, 2]
 )
 print(res)

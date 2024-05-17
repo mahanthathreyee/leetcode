@@ -6,17 +6,21 @@ Tags: Dynamic Programming, Binary Search
 
 from bisect import bisect_left
 
+
 class Solution:
     def lengthOfLIS(self, nums: list[int]) -> int:
-        res = [nums[0]]
-        
+        ans = [nums[0]]
+
         for x in nums[1:]:
-            if res[-1] < x: res += x,
-            else: res[bisect_left(res, x)] = x
-        
-        return len(res)
+            if ans[-1] < x:
+                ans += x,
+            else:
+                ans[bisect_left(ans, x)] = x
+
+        return len(ans)
+
 
 res = Solution().lengthOfLIS(
-    [10,9,2,5,3,7,101,18]
+    [10, 9, 2, 5, 3, 7, 101, 18]
 )
 print(res)

@@ -4,6 +4,7 @@ Link: https://leetcode.com/problems/powx-n/
 Tags: Math, Recursion
 '''
 
+
 class Solution:
     def myPow(self, x: float, n: int) -> float:
         if n < 0:
@@ -19,7 +20,7 @@ class Solution:
                 return x * self.myPow(x, n-1)
 
             # n is even, compute x^(n/2) * x^(n/2)
-            t = self.myPow(x, n>>1)
+            t = self.myPow(x, n >> 1)
             return t * t
-            
+
         return solve()

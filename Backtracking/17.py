@@ -4,11 +4,12 @@ Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 Tags: Hash Table, String, Backtracking
 '''
 
+
 class Solution:
     dg_chs = ['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
-    
+
     def letterCombinations(self, digits: str) -> list[str]:
-        if digits == '': 
+        if digits == '':
             return []
 
         res = []
@@ -22,8 +23,9 @@ class Solution:
                 continue
             for suffix in suffixes:
                 res += [c + suffix]
-        
+
         return res
+
 
 res = Solution().letterCombinations(
     digits="23"

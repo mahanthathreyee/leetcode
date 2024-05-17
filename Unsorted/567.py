@@ -4,17 +4,17 @@ Link: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 Tags: Sliding Window, String
 '''
 
+
 class Solution:
     def checkInclusion(self, A: str, B: str) -> bool:
         def ord_c(x: str) -> int:
             return ord(x) - 97
-        
+
         def get_c_freq(S: str) -> list[int]:
             s_c = [0] * 26
             for c in S:
                 s_c[ord_c(c)] += 1
             return s_c
-        
 
         a_c = get_c_freq(A)
         x = set(A)
@@ -36,6 +36,7 @@ class Solution:
                 return True
 
         return False
+
 
 res = Solution().checkInclusion(
     A="adc",

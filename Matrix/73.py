@@ -4,6 +4,7 @@ Link: https://leetcode.com/problems/set-matrix-zeroes/description/
 Tags: Matrix, Array
 '''
 
+
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:
         """
@@ -15,7 +16,7 @@ class Solution:
             # Change rows
             for i in range(n):
                 matrix[i][y] = 0
-            
+
             # Change columns
             for j in range(m):
                 matrix[x][j] = 0
@@ -25,10 +26,11 @@ class Solution:
             for j in range(m):
                 if matrix[i][j] == 0:
                     zero_loc.add((i, j))
-        
+
         for i, j in zero_loc:
             setZero(i, j)
 
-matrix = [[1,1,1],[1,0,1],[1,1,1]]
+
+matrix = [[1, 1, 1], [1, 0, 1], [1, 1, 1]]
 Solution().setZeroes(matrix)
 print(matrix)
