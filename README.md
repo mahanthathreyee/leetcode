@@ -21,6 +21,7 @@
 
 |  ID  | Problem                        | Difficulty |                                   Link                                    |                  Solution                  |
 | :--: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :----------------------------------------: |
+|  53  | Maximum Subarray               |   Medium   |        [Leetcode](https://leetcode.com/problems/maximum-subarray/)        |   [53.py](./Dynamic%20Programming/53.py)   |
 |  72  | Edit Distance                  |   Medium   |         [Leetcode](https://leetcode.com/problems/edit-distance/)          |   [72.py](./Dynamic%20Programming/72.py)   |
 | 300  | Longest Increasing Subsequence |   Medium   | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) |  [300.py](./Dynamic%20Programming/300.py)  |
 | 416  | Partition Equal Subset Sum     |   Medium   |   [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)   |  [416.py](./Dynamic%20Programming/416.py)  |
@@ -52,15 +53,16 @@
 
 ## Linked List
 
-| ID  | Problem                       | Difficulty |                             Link                             |             Solution             |
-| :-: | :---------------------------- | :--------: | :----------------------------------------------------------: | :------------------------------: |
-| 138 | Copy List with Random Pointer |   Medium   | https://leetcode.com/problems/copy-list-with-random-pointer/ | [138.py](./Linked%20List/138.py) |
+| ID  | Problem                       | Difficulty |                                   Link                                   |             Solution             |
+| :-: | :---------------------------- | :--------: | :----------------------------------------------------------------------: | :------------------------------: |
+|  2  | Add Two Numbers               |   Medium   |        [Leetcode](https://leetcode.com/problems/add-two-numbers/)        |   [2.py](./Linked%20List/2.py)   |
+| 138 | Copy List with Random Pointer |   Medium   | [Leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [138.py](./Linked%20List/138.py) |
 
 ## Math
 
-| ID  | Problem   | Difficulty |                 Link                  |       Solution        |
-| :-: | :-------- | :--------: | :-----------------------------------: | :-------------------: |
-| 50  | Pow(x, n) |   Medium   | https://leetcode.com/problems/powx-n/ | [50.py](./Math/50.py) |
+| ID  | Problem   | Difficulty |                       Link                        |       Solution        |
+| :-: | :-------- | :--------: | :-----------------------------------------------: | :-------------------: |
+| 50  | Pow(x, n) |   Medium   | [Leetcode](https://leetcode.com/problems/powx-n/) | [50.py](./Math/50.py) |
 
 #: Matrix
 
