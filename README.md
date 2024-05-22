@@ -38,6 +38,8 @@
 | 207 | Course Schedule                                       |   Medium   |                    [Leetcode](https://leetcode.com/problems/course-schedule/)                    | [207.py](./Graph%20&%20Trees/207.py) |
 | 208 | Implement Trie (Prefix Tree)                          |   Medium   |              [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)               | [208.py](./Graph%20&%20Trees/208.py) |
 | 253 | Lowest Common Ancestor of a Binary Search Tree        |   Medium   |    [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)     | [253.py](./Graph%20&%20Trees/253.py) |
+| 261 | Graph Valid Tree                                      |   Medium   |                   [Leetcode](https://leetcode.com/problems/graph-valid-tree/)                    | [323.py](./Graph%20&%20Trees/261.py) |
+| 297 | Serialize and Deserialize Binary Tree                 |    Hard    |         [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)         | [323.py](./Graph%20&%20Trees/297.py) |
 | 323 | Number of Connected Components in an Undirected Graph |   Medium   | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [323.py](./Graph%20&%20Trees/323.py) |
 
 ## Greedy
