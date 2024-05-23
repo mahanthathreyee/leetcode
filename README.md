@@ -37,6 +37,7 @@
 | 133 | Clone Graph                                           |   Medium   |                      [Leetcode](https://leetcode.com/problems/clone-graph/)                      | [133.py](./Graph%20&%20Trees/133.py) |
 | 207 | Course Schedule                                       |   Medium   |                    [Leetcode](https://leetcode.com/problems/course-schedule/)                    | [207.py](./Graph%20&%20Trees/207.py) |
 | 208 | Implement Trie (Prefix Tree)                          |   Medium   |              [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)               | [208.py](./Graph%20&%20Trees/208.py) |
+| 230 | Kth Smallest Element in a BST                         |   Medium   |             [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | [230.py](./Graph%20&%20Trees/230.py) |
 | 253 | Lowest Common Ancestor of a Binary Search Tree        |   Medium   |    [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)     | [253.py](./Graph%20&%20Trees/253.py) |
 | 261 | Graph Valid Tree                                      |   Medium   |                   [Leetcode](https://leetcode.com/problems/graph-valid-tree/)                    | [323.py](./Graph%20&%20Trees/261.py) |
 | 297 | Serialize and Deserialize Binary Tree                 |    Hard    |         [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)         | [323.py](./Graph%20&%20Trees/297.py) |
@@ -61,6 +62,7 @@
 | :-: | :---------------------------- | :--------: | :----------------------------------------------------------------------: | :------------------------------: |
 |  2  | Add Two Numbers               |   Medium   |        [Leetcode](https://leetcode.com/problems/add-two-numbers/)        |   [2.py](./Linked%20List/2.py)   |
 | 138 | Copy List with Random Pointer |   Medium   | [Leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [138.py](./Linked%20List/138.py) |
+| 146 | LRU Cache                     |   Medium   |           [Leetcode](https://leetcode.com/problems/lru-cache/)           | [146.py](./Linked%20List/146.py) |
 
 ## Math
 
