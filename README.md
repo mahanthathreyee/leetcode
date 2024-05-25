@@ -19,14 +19,15 @@
 
 ## Dynamic Programming
 
-|  ID  | Problem                        | Difficulty |                                   Link                                    |                  Solution                  |
-| :--: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :----------------------------------------: |
-|  53  | Maximum Subarray               |   Medium   |        [Leetcode](https://leetcode.com/problems/maximum-subarray/)        |   [53.py](./Dynamic%20Programming/53.py)   |
-|  72  | Edit Distance                  |   Medium   |         [Leetcode](https://leetcode.com/problems/edit-distance/)          |   [72.py](./Dynamic%20Programming/72.py)   |
-| 300  | Longest Increasing Subsequence |   Medium   | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) |  [300.py](./Dynamic%20Programming/300.py)  |
-| 416  | Partition Equal Subset Sum     |   Medium   |   [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)   |  [416.py](./Dynamic%20Programming/416.py)  |
-| 518  | Coin Change II                 |   Medium   |         [Leetcode](https://leetcode.com/problems/coin-change-ii/)         |  [518.py](./Dynamic%20Programming/518.py)  |
-| 1143 | Longest Common Subsequence     |   Medium   |   [Leetcode](https://leetcode.com/problems/longest-common-subsequence/)   | [1143.py](./Dynamic%20Programming/1143.py) |
+|  ID  | Problem                                       | Difficulty |                                           Link                                           |                  Solution                  |
+| :--: | :-------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------: | :----------------------------------------: |
+|  53  | Maximum Subarray                              |   Medium   |               [Leetcode](https://leetcode.com/problems/maximum-subarray/)                |   [53.py](./Dynamic%20Programming/53.py)   |
+|  72  | Edit Distance                                 |   Medium   |                 [Leetcode](https://leetcode.com/problems/edit-distance/)                 |   [72.py](./Dynamic%20Programming/72.py)   |
+| 300  | Longest Increasing Subsequence                |   Medium   |        [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/)         |  [300.py](./Dynamic%20Programming/300.py)  |
+| 309  | Best Time to Buy and Sell Stock with Cooldown |   Medium   | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [309.py](./Dynamic%20Programming/309.py)  |
+| 416  | Partition Equal Subset Sum                    |   Medium   |          [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)           |  [416.py](./Dynamic%20Programming/416.py)  |
+| 518  | Coin Change II                                |   Medium   |                [Leetcode](https://leetcode.com/problems/coin-change-ii/)                 |  [518.py](./Dynamic%20Programming/518.py)  |
+| 1143 | Longest Common Subsequence                    |   Medium   |          [Leetcode](https://leetcode.com/problems/longest-common-subsequence/)           | [1143.py](./Dynamic%20Programming/1143.py) |
 
 ## Graph & Trees
 
