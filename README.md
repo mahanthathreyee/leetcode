@@ -31,18 +31,19 @@
 
 ## Graph & Trees
 
-| ID  | Problem                                               | Difficulty |                                               Link                                               |               Solution               |
-| :-: | :---------------------------------------------------- | :--------: | :----------------------------------------------------------------------------------------------: | :----------------------------------: |
-| 46  | Permutations                                          |   Medium   |                     [Leetcode](https://leetcode.com/problems/permutations/)                      |  [46.py](./Graph%20&%20Trees/46.py)  |
-| 98  | Validate Binary Search Tree                           |   Medium   |              [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)              |  [98.py](./Graph%20&%20Trees/98.py)  |
-| 133 | Clone Graph                                           |   Medium   |                      [Leetcode](https://leetcode.com/problems/clone-graph/)                      | [133.py](./Graph%20&%20Trees/133.py) |
-| 207 | Course Schedule                                       |   Medium   |                    [Leetcode](https://leetcode.com/problems/course-schedule/)                    | [207.py](./Graph%20&%20Trees/207.py) |
-| 208 | Implement Trie (Prefix Tree)                          |   Medium   |              [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)               | [208.py](./Graph%20&%20Trees/208.py) |
-| 230 | Kth Smallest Element in a BST                         |   Medium   |             [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | [230.py](./Graph%20&%20Trees/230.py) |
-| 253 | Lowest Common Ancestor of a Binary Search Tree        |   Medium   |    [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)     | [253.py](./Graph%20&%20Trees/253.py) |
-| 261 | Graph Valid Tree                                      |   Medium   |                   [Leetcode](https://leetcode.com/problems/graph-valid-tree/)                    | [323.py](./Graph%20&%20Trees/261.py) |
-| 297 | Serialize and Deserialize Binary Tree                 |    Hard    |         [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)         | [323.py](./Graph%20&%20Trees/297.py) |
-| 323 | Number of Connected Components in an Undirected Graph |   Medium   | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [323.py](./Graph%20&%20Trees/323.py) |
+|  ID  | Problem                                               | Difficulty |                                               Link                                               |                Solution                |
+| :--: | :---------------------------------------------------- | :--------: | :----------------------------------------------------------------------------------------------: | :------------------------------------: |
+|  46  | Permutations                                          |   Medium   |                     [Leetcode](https://leetcode.com/problems/permutations/)                      |   [46.py](./Graph%20&%20Trees/46.py)   |
+|  98  | Validate Binary Search Tree                           |   Medium   |              [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)              |   [98.py](./Graph%20&%20Trees/98.py)   |
+| 133  | Clone Graph                                           |   Medium   |                      [Leetcode](https://leetcode.com/problems/clone-graph/)                      |  [133.py](./Graph%20&%20Trees/133.py)  |
+| 207  | Course Schedule                                       |   Medium   |                    [Leetcode](https://leetcode.com/problems/course-schedule/)                    |  [207.py](./Graph%20&%20Trees/207.py)  |
+| 208  | Implement Trie (Prefix Tree)                          |   Medium   |              [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)               |  [208.py](./Graph%20&%20Trees/208.py)  |
+| 230  | Kth Smallest Element in a BST                         |   Medium   |             [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             |  [230.py](./Graph%20&%20Trees/230.py)  |
+| 253  | Lowest Common Ancestor of a Binary Search Tree        |   Medium   |    [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)     |  [253.py](./Graph%20&%20Trees/253.py)  |
+| 261  | Graph Valid Tree                                      |   Medium   |                   [Leetcode](https://leetcode.com/problems/graph-valid-tree/)                    |  [323.py](./Graph%20&%20Trees/261.py)  |
+| 297  | Serialize and Deserialize Binary Tree                 |    Hard    |         [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)         |  [323.py](./Graph%20&%20Trees/297.py)  |
+| 323  | Number of Connected Components in an Undirected Graph |   Medium   | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  [323.py](./Graph%20&%20Trees/323.py)  |
+| 1448 | Count Good Nodes in Binary Tree                       |   Medium   |            [Leetcode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)            | [1448.py](./Graph%20&%20Trees/1448.py) |
 
 ## Greedy
 
