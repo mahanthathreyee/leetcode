@@ -44,6 +44,7 @@
 | 297  | Serialize and Deserialize Binary Tree                 |    Hard    |         [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)         |  [323.py](./Graph%20&%20Trees/297.py)  |
 | 323  | Number of Connected Components in an Undirected Graph |   Medium   | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  [323.py](./Graph%20&%20Trees/323.py)  |
 | 1448 | Count Good Nodes in Binary Tree                       |   Medium   |            [Leetcode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)            | [1448.py](./Graph%20&%20Trees/1448.py) |
+| 1584 | Min Cost to Connect All Points                        |   Medium   |            [Leetcode](https://leetcode.com/problems/min-cost-to-connect-all-points/)             | [1584.py](./Graph%20&%20Trees/1584.py) |
 
 ## Greedy
 
