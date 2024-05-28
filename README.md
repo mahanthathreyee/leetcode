@@ -17,6 +17,12 @@
 | 33  | Search in Rotated Sorted Array |   Medium   | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33.py](./Binary%20Search/33.py) |
 | 74  | Search a 2D Matrix             |   Medium   |       [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/)       | [74.py](./Binary%20Search/74.py) |
 
+## Bit Manipulation
+
+| ID  | Problem                        | Difficulty |                                   Link                                    |             Solution             |
+| :-: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :------------------------------: |
+| 15  | 3 Sum                          |   Medium   |              [Leetcode](https://leetcode.com/problems/3sum/)              | [15.py](./Binary%20Search/15.py) |
+
 ## Dynamic Programming
 
 |  ID  | Problem                                       | Difficulty |                                           Link                                           |                  Solution                  |
