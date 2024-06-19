@@ -19,9 +19,9 @@
 
 ## Bit Manipulation
 
-| ID  | Problem                        | Difficulty |                                   Link                                    |             Solution             |
-| :-: | :----------------------------- | :--------: | :-----------------------------------------------------------------------: | :------------------------------: |
-| 15  | 3 Sum                          |   Medium   |              [Leetcode](https://leetcode.com/problems/3sum/)              | [15.py](./Binary%20Search/15.py) |
+| ID  | Problem | Difficulty |                      Link                       |             Solution             |
+| :-: | :------ | :--------: | :---------------------------------------------: | :------------------------------: |
+| 15  | 3 Sum   |   Medium   | [Leetcode](https://leetcode.com/problems/3sum/) | [15.py](./Binary%20Search/15.py) |
 
 ## Dynamic Programming
 
@@ -75,11 +75,12 @@
 
 ## Math
 
-| ID  | Problem   | Difficulty |                       Link                        |       Solution        |
-| :-: | :-------- | :--------: | :-----------------------------------------------: | :-------------------: |
-| 50  | Pow(x, n) |   Medium   | [Leetcode](https://leetcode.com/problems/powx-n/) | [50.py](./Math/50.py) |
+| ID  | Problem         | Difficulty |                            Link                            |       Solution        |
+| :-: | :-------------- | :--------: | :--------------------------------------------------------: | :-------------------: |
+|  7  | Reverse Integer |   Medium   | [Leetcode](https://leetcode.com/problems/reverse-integer/) |  [7.py](./Math/7.py)  |
+| 50  | Pow(x, n)       |   Medium   |     [Leetcode](https://leetcode.com/problems/powx-n/)      | [50.py](./Math/50.py) |
 
-#: Matrix
+## Matrix
 
 | ID  | Problem           | Difficulty |                             Link                             |        Solution         |
 | :-: | :---------------- | :--------: | :----------------------------------------------------------: | :---------------------: |
