@@ -29,6 +29,7 @@
 | :--: | :-------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------: | :----------------------------------------: |
 |  53  | Maximum Subarray                              |   Medium   |               [Leetcode](https://leetcode.com/problems/maximum-subarray/)                |   [53.py](./Dynamic%20Programming/53.py)   |
 |  72  | Edit Distance                                 |   Medium   |                 [Leetcode](https://leetcode.com/problems/edit-distance/)                 |   [72.py](./Dynamic%20Programming/72.py)   |
+| 172  | House Robber                                  |   Medium   |                 [Leetcode](https://leetcode.com/problems/house-robber/)                  |  [198.py](./Dynamic%20Programming/198.py)  |
 | 300  | Longest Increasing Subsequence                |   Medium   |        [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/)         |  [300.py](./Dynamic%20Programming/300.py)  |
 | 309  | Best Time to Buy and Sell Stock with Cooldown |   Medium   | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [309.py](./Dynamic%20Programming/309.py)  |
 | 416  | Partition Equal Subset Sum                    |   Medium   |          [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/)           |  [416.py](./Dynamic%20Programming/416.py)  |
